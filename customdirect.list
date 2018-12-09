@@ -6,7 +6,6 @@ DOMAIN-SUFFIX,tmall.com
 DOMAIN-SUFFIX,youku.com
 USER-AGENT,WeChat*
 USER-AGENT,MicroMessenger*
-USER-AGENT,MicroMessenger
 DOMAIN-KEYWORD,weixin
 USER-AGENT,*taobao
 DOMAIN-SUFFIX,weixin.qq
