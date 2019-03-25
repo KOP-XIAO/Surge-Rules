@@ -1,0 +1,8 @@
+// Netflix
+USER-AGENT,Argo*
+DOMAIN-KEYWORD, netflix
+DOMAIN-SUFFIX,nflxext.com
+DOMAIN-SUFFIX,nflximg.com
+DOMAIN-SUFFIX,nflximg.net
+DOMAIN-SUFFIX,nflxso.net
+DOMAIN-SUFFIX,nflxvideo.net
