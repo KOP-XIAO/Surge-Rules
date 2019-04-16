@@ -1,4 +1,11 @@
-#from project https://github.com/gxfxyz/unblockchn
+//youku
+DOMAIN,mfs.ykimg
+DOMAIN-SUFFIX,ykimg.com // Added for webpage: r1.ykimg.com:443
+IP-CIDR,17.252.201.0/24,no-resolve
+IP-CIDR,47.91.203.0/24,no-resolve
+IP-CIDR,14.136.134.0/24,no-resolve
+IP-CIDR,203.185.10.0/24,no-resolve
+//
 DOMAIN,v.pps.tv
 DOMAIN,dyn.ugc.pps.tv
 DOMAIN,www.qie.tv
