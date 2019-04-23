@@ -1,3 +1,5 @@
+//百度网盘
+DOMAIN,pcs-baishan.qingcdn.com
 //youku
 DOMAIN,mfs.ykimg
 DOMAIN-SUFFIX,ykimg.com // Added for webpage: r1.ykimg.com:443
