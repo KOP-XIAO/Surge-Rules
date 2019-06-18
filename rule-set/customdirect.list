@@ -8,16 +8,27 @@ IP-CIDR,198.11.189.91/24,no-resolve
 IP-CIDR,106.11.53.16/24,no-resolve
 DOMAIN-SUFFIX,gm.mmstat.com,resolve-on-proxy
 IP-CIDR,198.11.136.1/24,no-resolve
-IP-CIDR,54.204.3.0/24 // Added for webpage: 54.204.3.50:443
-IP-CIDR,23.21.70.0/24 // Added for webpage: 23.21.70.119:443
-IP-CIDR,198.11.188.0/24 // Added for webpage: 198.11.188.70:443
-IP-CIDR,47.246.16.0/24 // Added for webpage: 47.246.16.253:80
-IP-CIDR,54.225.132.0/24 // Added for webpage: 54.225.132.118:443
-IP-CIDR,50.17.248.0/24 // Added for webpage: 50.17.248.225:443
-IP-CIDR,23.21.182.0/24 // Added for webpage: 23.21.182.231:443
-IP-CIDR,17.253.84.0/24 // Added for webpage: 17.253.84.125:123
-IP-CIDR,54.221.192.0/24 // Added for webpage: 54.221.192.113:443
-IP-CIDR,205.204.104.0/24 // Added for webpage: 205.204.104.227:80
+IP-CIDR,54.204.3.0/24 
+// Added for webpage: 54.204.3.50:443
+IP-CIDR,23.21.70.0/24 
+// Added for webpage: 23.21.70.119:443
+IP-CIDR,198.11.188.0/24 
+// Added for webpage: 198.11.188.70:443
+IP-CIDR,47.246.16.0/24 
+// Added for webpage: 47.246.16.253:80
+IP-CIDR,54.225.132.0/24 
+// Added for webpage: 54.225.132.118:443
+IP-CIDR,50.17.248.0/24 
+// Added for webpage: 50.17.248.225:443
+IP-CIDR,23.21.182.0/24 
+// Added for webpage: 23.21.182.231:443
+IP-CIDR,17.253.84.0/24 
+// Added for webpage: 17.253.84.125:123
+IP-CIDR,54.221.192.0/24 
+// Added for webpage: 54.221.192.113:443
+IP-CIDR,205.204.104.0/24 
+// Added for webpage: 205.204.104.227:80
+
 //custom
 DOMAIN-KEYWORD,alipay
 DOMAIN-KEYWORD,taobao
