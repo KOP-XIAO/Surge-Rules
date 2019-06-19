@@ -309,5 +309,4 @@ DOMAIN-SUFFIX,gtimg.com
 DOMAIN-SUFFIX,gtimg.cn
 IP-CIDR,120.79.47.0/24,no-resolve
 //pptv
-GEOIP,CN
 
