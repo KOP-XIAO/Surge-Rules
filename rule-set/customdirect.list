@@ -1,3 +1,11 @@
+host-suffix, 1sapp.com
+host-suffix, getui.com
+host-suffix, qfy.innotechx.com
+host-suffix, cc.m.jd.com
+ip-cidr, 203.205.249.45/24
+ip-cidr, 203.205.239.124/24
+ip-cidr, 119.39.81.0/24
+ip-cidr, 123.6.3.0/24
 //Tecent
 ip-cidr, 203.205.239.0/24
 ip-cidr, 119.39.81.0/24
