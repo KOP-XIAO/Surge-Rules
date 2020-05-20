@@ -1,7 +1,7 @@
-host-suffix, 1sapp.com
-host-suffix, getui.com
-host-suffix, qfy.innotechx.com
-host-suffix, cc.m.jd.com
+domain-suffix, 1sapp.com
+domain-suffix, getui.com
+domain-suffix, qfy.innotechx.com
+domain-suffix, cc.m.jd.com
 ip-cidr, 203.205.249.45/24,no-resolve
 ip-cidr, 203.205.239.124/24,no-resolve
 ip-cidr, 203.205.254.91/24,no-resolve
