@@ -1,6 +1,5 @@
 #!name=SSID 模块
 #!desc=根据网络切换状态
-#!system=ios
 
 [SSID Setting]
 "ASUS_5G" suspend=true
