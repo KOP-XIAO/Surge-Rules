@@ -1,0 +1,6 @@
+#!name=SSID 模块
+#!desc=根据网络切换状态
+
+[SSID Setting]
+"ASUS_5G" suspend=true
+"X-X" cellular-mode=true

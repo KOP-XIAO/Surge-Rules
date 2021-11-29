@@ -2,7 +2,8 @@
 DOMAIN,pcs-baishan.qingcdn.com
 //youku
 DOMAIN,mfs.ykimg
-DOMAIN-SUFFIX,ykimg.com // Added for webpage: r1.ykimg.com:443
+// Added for webpage: r1.ykimg.com:443
+DOMAIN-SUFFIX,ykimg.com 
 IP-CIDR,17.252.201.0/24,no-resolve
 IP-CIDR,47.91.203.0/24,no-resolve
 IP-CIDR,14.136.134.0/24,no-resolve
